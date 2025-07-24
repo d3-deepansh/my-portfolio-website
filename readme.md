@@ -81,7 +81,7 @@ The website should automatically open in your browser at http://localhost:3000.
 ✏️ How to Customize for Another Person
 To adapt this portfolio for someone else, you'll need to edit the content within the code. Here is a checklist of the key things to change in the App.js file (or index.html if using the static version):
 
-[ ] Hero Section:
+[ ] Home Section:
 
 Update the name and title (e.g., "Aspiring Full-Stack Developer").
 
